@@ -1,0 +1,4 @@
+highlighter: rouge
+encoding: utf-8
+exclude: ['CNAME', 'README.md']
+timezone: America/Los_Angeles
